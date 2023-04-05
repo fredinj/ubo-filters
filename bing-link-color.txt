@@ -1,0 +1,7 @@
+! Title: Bing Link Color Fix
+! Version: 1.0
+! Description: No clue why microsoft decided to make every single link purple whether you visited it or not. This changes the color of links you didn't visit to the light blue color that google's dark mode uses
+!
+! https://www.reddit.com/r/firefox/comments/z1yyb1/comment/ixdobwm/
+!
+www.bing.com#$#main ol a:link{color:#81b9f3 !important}
