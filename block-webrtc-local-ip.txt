@@ -1,1 +1,5 @@
+! Title: Block WebRTC IP Leak
+! Version: 1.0
+! Description: Blocks IP leak from WebRTC
+!
 *##+js(nowebrtc)
